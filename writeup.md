@@ -12,7 +12,7 @@ The goals / steps of this project are the following:
 Here, I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
 
 ---
-My project code is [here](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb).
+My project code is [here](https://github.com/dstbando/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb).
 
 ### Data Set Summary & Exploration
 I used the simple python methods to calculate summary statistics of the traffic signs data set:
